@@ -53,5 +53,4 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthaG09&show_icons=true&theme=transparent)
-###
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthaG09)](https://github.com/SiddharthaG09/github-readme-stats)
